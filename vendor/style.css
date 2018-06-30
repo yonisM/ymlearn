@@ -131,6 +131,13 @@
 }
 
 @media (min-width: 992px) {
+    
+  .modal-lg {
+        width: 900px;
+        height: 2000px; /* control height here */
+    }    
+    
+
   .portfolio-item {
     max-width: none;
     margin: 0;
